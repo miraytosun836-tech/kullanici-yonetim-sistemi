@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path=".gitignore" />
+    <File Path="Kurulum.sql" />
+  </Folder>
+  <Project Path="MyProject.BLL/MyProject.BLL.csproj" />
+  <Project Path="MyProject.DAL/MyProject.DAL.csproj" />
+  <Project Path="MyProject.Entities/MyProject.Entities.csproj" />
+  <Project Path="MyProject.Helpers/MyProject.Helpers.csproj" />
+  <Project Path="MyProject.UI/MyProject.UI.csproj" />
+</Solution>

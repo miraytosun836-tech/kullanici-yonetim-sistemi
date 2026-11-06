@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyProject.DAL\MyProject.DAL.csproj" />
+    <ProjectReference Include="..\MyProject.Entities\MyProject.Entities.csproj" />
+    <ProjectReference Include="..\MyProject.Helpers\MyProject.Helpers.csproj" />
+  </ItemGroup>
+
+</Project>
